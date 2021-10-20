@@ -1,0 +1,16 @@
+{
+  "Player1": {
+    "id": "1",
+    "complete": false,
+    "name": "Player1",
+    "position": "Left Tackle",
+    "uid": "123456"
+  },
+  "Player2": {
+    "id": "1",
+    "complete": false,
+    "name": "Player2",
+    "position": "Right Tackle",
+    "uid": "123456"
+  }
+}
